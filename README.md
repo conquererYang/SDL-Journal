@@ -14,7 +14,7 @@ Our framework leverages a Visual Language Model (VLM) for anomaly detection. Thi
 <img width="2063" height="1104" alt="Fig Anomalydetection" src="https://github.com/user-attachments/assets/6e0a5043-501c-485c-8304-ae8ed798308c" />
 
 - **Anomaly Detection Dataset**
-Validation is conducted using the **Sdls Anomaly Detect** dataset（https://figshare.com/articles/dataset/sdls_anomaly_detect/29234663/1）, which includes a variety of scenarios and labeled anomalies typically found in laboratory settings. This dataset is crucial for evaluating the robustness of our anomaly handling framework. For further reading, refer to the following foundational paper:
+Validation is conducted using the **Sdls Anomaly Detect** dataset（ https://doi.org/10.6084/m9.figshare.29234663.v1 ）, which includes a variety of scenarios and labeled anomalies typically found in laboratory settings. This dataset is crucial for evaluating the robustness of our anomaly handling framework. For further reading, refer to the following foundational paper:
 S. Lin, C. Wang, X. Ding, Y. Wang, B. Du, L. Song, C. Wang, and H. Liu, "A VLM-based Method for Visual Anomaly Detection in Robotic Scientific Laboratories," arXiv preprint arXiv:2506.05405, 2025.
 
 ### 🛠️ Methodology
