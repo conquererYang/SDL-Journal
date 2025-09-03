@@ -15,11 +15,11 @@ Our framework leverages a Visual Language Model (VLM) for anomaly detection. Thi
 
 - **Anomaly Detection Dataset**
 Validation is conducted using the **Sdls Anomaly Detect** dataset（ https://doi.org/10.6084/m9.figshare.29234663.v1 ）, which includes a variety of scenarios and labeled anomalies typically found in laboratory settings. This dataset is crucial for evaluating the robustness of our anomaly handling framework. For further reading, refer to the following foundational paper:
-![0054](https://github.com/user-attachments/assets/4d930181-dfbe-4efc-bdfa-1b31bc45e46b)
-![0348](https://github.com/user-attachments/assets/48ce3f1e-adc2-45f5-a77c-e22f9624feee)
 
 S. Lin, C. Wang, X. Ding, Y. Wang, B. Du, L. Song, C. Wang, and H. Liu, "A VLM-based Method for Visual Anomaly Detection in Robotic Scientific Laboratories," arXiv preprint arXiv:2506.05405, 2025.
+![0054](https://github.com/user-attachments/assets/4d930181-dfbe-4efc-bdfa-1b31bc45e46b)
 
+![0348](https://github.com/user-attachments/assets/48ce3f1e-adc2-45f5-a77c-e22f9624feee)
 ### 🛠️ Methodology
 Our framework leverages **Hierarchical Large Language Models (LLMs)** to facilitate intelligent task planning and actions, executing dynamic adjustments in real time. The **Cross-Behavior Tree Expansion Algorithm** effectively identifies and responds to common laboratory anomalies, thus ensuring smooth operation of multi-robot systems.
 
