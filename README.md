@@ -1,7 +1,7 @@
 # 🤖 Anomaly Management in Multi-Robot Coordination: Detection and Handling Framework for Self-Driving Laboratories
 ## 🚀 Project Overview
 In scientific laboratories, the complexity of experimental processes and high-precision equipment increases the likelihood of anomalies, which can compromise results and pose safety risks. This project addresses these challenges by implementing a Multi-Robot Coordination Framework designed for effective anomaly handling in autonomous laboratory environments.
-<img width="475" height="288" alt="framework_high" src="https://github.com/user-attachments/assets/e173a318-d7fc-4f79-97f1-6f86fe57458a" />
+<img width="780" alt="System architecture" src="assets/fig1_system_architecture.png" />
 ### 🔑 Key Contributions
 - **Anomaly Detection and Handling Framework**: We developed a framework that facilitates the detection and handling of anomalies, aiming to swiftly restore workflows in the presence of disruptive events.
 - **Cross-Behavior Tree Extension Algorithm**: An innovative algorithm that is activated upon detecting anomalies, efficiently managing and localizing issues without extensive re-planning.
@@ -24,6 +24,8 @@ Our framework leverages **Hierarchical Large Language Models (LLMs)** to facilit
 
 <img width="7680" height="4320" alt="Fig Methods" src="https://github.com/user-attachments/assets/d7f725b0-e733-4319-b315-076ba08b1a73" />
 
+<img width="880" alt="System framework" src="assets/fig2_framework.png" />
+
 ### 📹 Case Study Videos
 We provide extensive case studies demonstrating our anomaly handling processes through practical scenarios. To view various anomaly situations and the corresponding framework responses, check our YouTube Channel.
 Link: https://www.youtube.com/watch?v=OH60_Ew9avQ&list=PLIJnmuEVkn7JcBSICKHqBwTBSFjnzq4pN&pp=gAQB
@@ -38,5 +40,13 @@ We have conducted extensive case studies demonstrating the anomaly handling proc
 - Video 6-2: Workbench robot0 straightens the tray mold
 - Video 6-3: Workbench robot0 re-rectifies the mold and puts it back on the tray
 - Video 7: Workbench robot0 is interrupted when adding pigment to the test tube. Replace the test tube with a new one and add pigment again. 
+
+<img width="900" alt="Case study: cross-behavior-tree anomaly recovery" src="assets/fig3_case_study.png" />
 ### 📈 Conclusion
 This research presents a novel framework for managing anomalies in multi-robot systems, paving the way for enhanced automation in scientific laboratories. Feel free to dive in, provide feedback, or contribute to enhancing anomaly handling strategies! 💡
+
+### 📚 Cite Us
+
+If you find this work useful, please cite:
+
+> Y. Yang, J. Yang, H. Lu, H. Liu and W. Gao, "Anomaly Management in Multi-Robot Coordination: Detection and Handling Framework for Self-Driving Laboratories," in IEEE Transactions on Automation Science and Engineering, vol. 23, pp. 15775-15792, 2026, doi: 10.1109/TASE.2026.3726436.
